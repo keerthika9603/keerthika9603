@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Keerthika</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on **Contact manager App**
+- 🔭 I’m currently working on **Emotion based Music Recommendation using Deep Learning**
 
-- 🌱 I’m currently learning **NodeJS,ReactJS,MongoDB**
+- 🌱 I’m currently learning **NodeJS,ReactJS,MongoDB,MySQL**
 
-- 💬 Ask me about **OOPS,DBMS**
+- 💬 Ask me about **OOPS,DBMS,SQL**
 
 - 📫 How to reach me **keerthika03m@gmail.com**
 
